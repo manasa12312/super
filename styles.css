@@ -1,0 +1,175 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.header .nav-link {
+    font-weight: bold;
+}
+
+/* Hero Section */
+.hero {
+    background: url('images/hero-bg.jpg') no-repeat center center/cover;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+}
+
+.dish-img-container {
+    text-align: center;
+}
+
+.dish-img-container img {
+    width: 150px;
+    height: 150px;
+}
+
+/* About Section */
+#about img {
+    border-radius: 8px;
+}
+
+/* Catering Services Section */
+.service img {
+    width: 100px;
+    height: 100px;
+}
+
+/* Menu Section */
+.card {
+    border: none;
+}
+
+.card-img-top {
+    border-radius: 8px;
+}
+
+.price {
+    font-weight: bold;
+}
+
+/* Master Chef Section */
+.chef-profile img {
+    width: 150px;
+    height: 150px;
+}
+
+.social-links a {
+    margin: 0 5px;
+}
+
+/* Book a Table Section */
+#reservation form {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+#reservation input, #reservation select {
+    margin-bottom: 10px;
+}
+
+/* Testimonials Section */
+.testimonial img {
+    width: 100px;
+    height: 100px;
+}
+
+/* Recent Posts Section */
+.post img {
+    border-radius: 8px;
+}
+
+.date {
+    color: #777;
+}
+
+/* Footer Section */
+footer {
+    background: #333;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: #333;
+}
+
+.hero {
+    background: url('images/hero.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    padding: 100px 0;
+}
+
+.hero-caption {
+    font-size: 48px;
+}
+
+.hero-sub-caption {
+    font-size: 24px;
+}
+
+.img-circle {
+    border-radius: 50%;
+    width: 100%;
+    height: auto;
+}
+
+.about img {
+    margin-bottom: 15px;
+}
+
+.catering-services img {
+    width: 50px;
+    height: 50px;
+}
+
+.menu .card {
+    margin-bottom: 30px;
+}
+
+.master-chef img {
+    width: 100%;
+}
+
+.book-table form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.testimonies img {
+    width: 100px;
+    height: 100px;
+}
+
+.recent-posts img {
+    width: 100%;
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+footer h5 {
+    margin-top: 0;
+}
